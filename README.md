@@ -1,1 +1,2 @@
 #file encryption
+This project implements file encryption using Python and AES (Advanced Encryption Standard). Inspired by reading about AES on GeeksforGeeks while preparing for my CCNA, this program can encrypt files containing images and/or text. Currently, the program processes images, but performance may be slower for larger files, particularly images. Improving image processing efficiency is a planned enhancement.
